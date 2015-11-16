@@ -1,0 +1,14 @@
+.myTree .tree-cell {
+    -fx-background-color: #DCDCDC   ;
+    -fx-text-fill: 	#000000  ;
+-fx-padding: 10px;
+	
+-fx-font: 12px Tahoma;
+
+}
+
+.mylist .list-cell {
+   -fx-padding: 3 3 3 3;
+   -fx-background-color: white;
+ -fx-text-fill: red;
+ }
